@@ -46,6 +46,7 @@ public class IndexServlet extends HttpServlet {
                 "        没有任何文章，请发表第一篇文章\n" +
                 "        <!-- 如果有文章 -->\n" +
                 "    </div>\n" +
+                "<script src=\"/js/index.js\" charset=\"utf-8\"></script>" +
                 "</body>\n" +
                 "</html>";
         writer.println(htmlContent);

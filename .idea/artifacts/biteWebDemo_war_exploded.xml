@@ -8,6 +8,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="mysql-connector-java-5.1.47" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="fastjson-1.2.72" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="biteWebDemo/web/Web" />
